@@ -1,1 +1,16 @@
 /* Stil für die Lernmaterialen für die deutsche Sprache */
+h1{
+    text-align: center;
+    color: darkblue;
+}
+h3{
+    text-align: center;
+    color: cyan;
+}
+p{
+    text-align: center;
+    color: grey;
+}
+form{
+    text-align: center;
+}
