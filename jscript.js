@@ -1,8 +1,8 @@
 // Javascript für die Lernmaterialen für die deutsche Sprache
 
-function mais() {
-    alert(" der Zuckermais(-)");
+function myBuch() {
+    alert(" das Buch(e)");
   }
-  function zukini() {
-    alert(" der Zukini(s)");
+  function myRegal() {
+    alert(" das Regal(e)");
   }
