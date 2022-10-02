@@ -4,3 +4,4 @@ Lernmaterialen für die deutsche Sprache
 "centralised all text"
 "added img button alert"
 "learning radio buttons with alert and image centering"
+"change radio buttons to suit img"
