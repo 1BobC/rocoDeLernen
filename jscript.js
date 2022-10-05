@@ -16,8 +16,11 @@
   alert(" die Brombere(n)");
   }
   function motorrad() {
-  alert(" das Motorrad(umlaut er)");
+  alert(" das Motorrad(ä er)");
   }
   function frau() {
     alert(" die Frau(en)");
     }
+    function parkplatz() {
+      alert(" der Parkplatz(ä e)");
+      }
