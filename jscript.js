@@ -34,6 +34,9 @@
   function haustür() {
     alert(" die Haustür(en)");
   }
+  function sicherheitslicht() {
+    alert(" das Sicherheitslicht(er)");
+  }
   function dach() {
     alert(" das Dach(ä, er)");
   }

@@ -7,4 +7,6 @@ Lernmaterialen für die deutsche Sprache
 "change radio buttons to suit img"
 "completed choices for greenveg"
 "started motoradd img coding"
+"continue motorrad img"
 "completed motorrad img coding"
+"forgot Sicherheitslicht - now done!"
