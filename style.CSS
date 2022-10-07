@@ -15,6 +15,11 @@ p{
     text-align: center;
     color: darkslategray;
 }
+p.a { 
+    font-size:small;
+    font-style: italic; 
+    color:lightslategrey;
+    }
 form{
     text-align: center;
 }
