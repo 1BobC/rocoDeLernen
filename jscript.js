@@ -1,7 +1,7 @@
 // Javascript für die Lernmaterialen für die deutsche Sprache
 //code for greenveg.png img
   function brokkoli() {
-  alert(" der Brokkoli()(der -)");
+  alert(" der Brokkoli()(-)");
   }
   function stangenbohne() {
   alert(" die Stangenbohne(en)");
@@ -17,7 +17,10 @@
   }
 //code for moto1.jpg img
   function motorrad() {
-  alert(" das Motorrad(ä er)");
+  alert(" das Motorrad(ä, er)");
+  }
+  function motorradkoffer() {
+    alert(" der Motorradkoffer(-)");
   }
   function motorradkoffer() {
     alert(" der Motorradkoffer(-)");
