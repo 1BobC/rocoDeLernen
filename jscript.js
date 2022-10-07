@@ -19,6 +19,9 @@
   function motorrad() {
   alert(" das Motorrad(ä er)");
   }
+  function motorradkoffer() {
+    alert(" der Motorradkoffer(-)");
+  }
   function frau() {
     alert(" die Frau(en)");
   }
