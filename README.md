@@ -9,4 +9,4 @@ Lernmaterialen für die deutsche Sprache
 "started motoradd img coding"
 "continue motorrad img"
 "completed motorrad img coding"
-
+"forgot Sicherheitslicht - now done!"
