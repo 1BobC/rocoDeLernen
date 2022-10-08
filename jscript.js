@@ -49,3 +49,10 @@
   function pflasterung() {
     alert(" die Pflasterung");
   }
+  //code for Freya.jpg img
+  function madchen() {
+    alert(" das Mädchen(-)");
+  }
+  function junge() {
+    alert(" der Junge(n)");
+  }
