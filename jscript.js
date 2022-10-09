@@ -1,4 +1,4 @@
-// Javascript für die Lernmaterialen für die deutsche Sprache
+// Javascript für die Lernmaterialen für gender
 //code for greenveg.png img
   function brokkoli() {
   alert(" der Brokkoli()(-)");
