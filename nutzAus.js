@@ -11,4 +11,13 @@ function so1() {
     } 
 function glaube1() {
     alert(" I believe that too.");
-    }   
+    }
+function stimmt1() {
+    alert(" That's correct.");
+    }
+function richtig() {
+    alert(" That's right.");
+    }
+function recht() {
+    alert(" You're right.");
+    }
