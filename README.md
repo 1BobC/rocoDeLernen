@@ -12,3 +12,4 @@ Lernmaterialen für die deutsche Sprache
 "forgot Sicherheitslicht - now done!"
 "started madchen img coding"
 "more on Nützliche Ausdrücke"
+"added to Nützliche Ausdrücke and Geschlechterrätsel"
