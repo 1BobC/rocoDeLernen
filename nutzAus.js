@@ -21,3 +21,26 @@ function richtig() {
 function recht() {
     alert(" You're right.");
     }
+
+//code for Widerspruch ausdrücken
+function nicht1() {
+    alert(" I don't think so.");
+    }
+function anders() {
+    alert(" I see that differently.");
+    }
+function nicht2() {
+    alert(" I see that as not so.");
+    } 
+function nicht3() {
+    alert(" I do not believe that.");
+    }
+function nicht4() {
+    alert(" That's not right.");
+    }
+function nicht5() {
+    alert(" I find that you are not right");
+    }
+function anderer() {
+    alert(" I have a different opinion");
+    }   
