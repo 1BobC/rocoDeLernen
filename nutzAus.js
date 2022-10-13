@@ -44,3 +44,8 @@ function nicht5() {
 function anderer() {
     alert(" I have a different opinion");
     }   
+
+//code for Du möchtest deine Meinung sagen
+function fall1() {
+    alert(" No way!");
+    }   
